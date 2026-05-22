@@ -1,38 +1,95 @@
-# Hi, 我是 rrhww
+<h1 align="center">rrhww</h1>
 
-我正在以 **Agent** 为主要学习方向，开始系统参与开源社区。
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&center=true&vCenter=true&width=760&lines=CS+Student;Agent+Systems+Learner;Building+Inkvault"
+    alt="Typing SVG"
+  />
+</p>
 
-目前我会把学习、实践和协作过程公开记录下来：包括 Agent 相关项目阅读、工具使用、工程实践、项目打磨，以及参与开源社区的复盘。
+<p align="center">
+  <a href="https://github.com/rrhww/inkdesk"><img src="https://img.shields.io/badge/Project-Inkvault-111111?style=flat-square" alt="Project Inkvault" /></a>
+  <img src="https://img.shields.io/badge/Focus-Agent%20Systems-0f766e?style=flat-square" alt="Focus Agent Systems" />
+  <img src="https://img.shields.io/badge/Role-CS%20Student-7c3aed?style=flat-square" alt="Role CS Student" />
+</p>
 
-## 当前关注
+<p align="center">
+  面向 <strong>Agent systems</strong>、<strong>Agent Runtime</strong> 和 <strong>Harness Engineering</strong> 持续学习与实践。<br />
+  目前主要在公开构建 <strong>Inkvault</strong>，并把设计、实现和迭代过程沉淀到 GitHub。
+</p>
 
-- Agent 应用与工作流
-- LLM 工具使用与实践
-- 开源项目协作
-- 产品化与工程实践
+## About
 
-## 正在实践
+- 在校生、独立开发者
+- 技术专长：后端开发、agent开发
+- 关注 Agent systems、knowledge systems、open-source building
+- 目前正在探索agent知识沉淀，agent runtime，agent评测
 
-- [inkdesk](https://github.com/rrhww/inkdesk)  
-  一个正在持续打磨中的实践项目，用来训练产品设计、工程实现、README、issue、roadmap 和开源协作流程。
+## Tech I Use
 
-## 开源记录
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Current Stack</strong><br />
+      TypeScript<br />
+      React<br />
+      Next.js<br />
+      Python<br />
+      FastAPI<br />
+      PostgreSQL<br />
+      SQLAlchemy<br />
+      Tailwind CSS<br />
+      Docker<br />
+      Playwright / Vitest / pytest
+    </td>
+    <td valign="top" width="50%">
+      <strong>Currently Exploring</strong><br />
+      Agent workflows<br />
+      LangGraph<br />
+      RAG / knowledge systems<br />
+      grounded QA<br />
+      ingestion-review pipelines<br />
+      vault-first knowledge design
+    </td>
+  </tr>
+</table>
 
-我接下来会持续整理：
+## Featured Project
 
-- Agent 学习笔记
-- 开源项目阅读记录
-- issue / PR 参与复盘
-- 项目 README 与 roadmap 打磨过程
-- 每个阶段的学习总结
+### [Inkvault](https://github.com/rrhww/inkdesk)
 
-## 我正在寻找
+A private, vault-first research memory system built around:
 
-- Agent 方向的优秀开源项目
-- 适合新贡献者参与的 issue
-- 关于项目设计、README、工程结构的反馈
-- 一起学习和实践开源的朋友
+```text
+raw -> ingest -> wiki -> ask
+```
 
-## 联系我
+Inkvault focuses on a specific problem:
+how to combine AI-assisted knowledge ingestion with human-reviewed long-term memory, while keeping accepted knowledge recoverable from the vault itself.
 
-如果你也在学习 Agent、做开源项目，或者愿意给我的项目一些反馈，欢迎通过 GitHub issue / discussion 交流。
+**What this project shows**
+- full-stack implementation with Next.js + FastAPI
+- workflow and data modeling for a knowledge system
+- engineering around reviewable AI proposals instead of silent generation
+- ongoing work on product boundaries, architecture, and documentation
+
+## Current Focus
+
+- building agent-oriented knowledge workflows
+- designing grounded, reviewable AI systems
+- improving full-stack product engineering
+- learning in public through project iteration and documentation
+
+## Building in Public
+
+Here I mainly share:
+- README and architecture iteration
+- roadmap and implementation progress
+- learning notes around Agent systems
+- open-source practice through real project work
+
+## Contact
+
+- GitHub: [rrhww](https://github.com/rrhww)
+- Project: [Inkvault](https://github.com/rrhww/inkdesk)
+```
