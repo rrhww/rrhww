@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, 我是 rrhww
 
-<!--
-**rrhww/rrhww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我正在以 **Agent** 为主要学习方向，开始系统参与开源社区。
 
-Here are some ideas to get you started:
+目前我会把学习、实践和协作过程公开记录下来：包括 Agent 相关项目阅读、工具使用、工程实践、项目打磨，以及参与开源社区的复盘。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 当前关注
+
+- Agent 应用与工作流
+- LLM 工具使用与实践
+- 开源项目协作
+- 产品化与工程实践
+
+## 正在实践
+
+- [inkdesk](https://github.com/rrhww/inkdesk)  
+  一个正在持续打磨中的实践项目，用来训练产品设计、工程实现、README、issue、roadmap 和开源协作流程。
+
+## 开源记录
+
+我接下来会持续整理：
+
+- Agent 学习笔记
+- 开源项目阅读记录
+- issue / PR 参与复盘
+- 项目 README 与 roadmap 打磨过程
+- 每个阶段的学习总结
+
+## 我正在寻找
+
+- Agent 方向的优秀开源项目
+- 适合新贡献者参与的 issue
+- 关于项目设计、README、工程结构的反馈
+- 一起学习和实践开源的朋友
+
+## 联系我
+
+如果你也在学习 Agent、做开源项目，或者愿意给我的项目一些反馈，欢迎通过 GitHub issue / discussion 交流。
