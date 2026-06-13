@@ -1,95 +1,102 @@
-<h1 align="center">rrhww</h1>
+<h1 align="center">RrH</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&center=true&vCenter=true&width=760&lines=CS+Student;Agent+Systems+Learner;Building+Inkvault"
-    alt="Typing SVG"
-  />
+  Building toward agent observability, evaluation, and security governance.
 </p>
 
 <p align="center">
-  <a href="https://github.com/rrhww/inkdesk"><img src="https://img.shields.io/badge/Project-Inkvault-111111?style=flat-square" alt="Project Inkvault" /></a>
-  <img src="https://img.shields.io/badge/Focus-Agent%20Systems-0f766e?style=flat-square" alt="Focus Agent Systems" />
-  <img src="https://img.shields.io/badge/Role-CS%20Student-7c3aed?style=flat-square" alt="Role CS Student" />
+  <a href="https://github.com/rrhww?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Agent%20Systems-0f766e?style=for-the-badge" alt="Focus: Agent Systems" />
+  </a>
+  <a href="https://github.com/langfuse/langfuse">
+    <img src="https://img.shields.io/badge/Studying-Langfuse-171717?style=for-the-badge" alt="Studying Langfuse" />
+  </a>
+  <a href="https://github.com/rrhww/inkdesk">
+    <img src="https://img.shields.io/badge/Project-Inkvault-2563eb?style=for-the-badge" alt="Project Inkvault" />
+  </a>
 </p>
 
-<p align="center">
-  面向 <strong>Agent systems</strong>、<strong>Agent Runtime</strong> 和 <strong>Harness Engineering</strong> 持续学习与实践。<br />
-  目前主要在公开构建 <strong>Inkvault</strong>，并把设计、实现和迭代过程沉淀到 GitHub。
-</p>
+I am a student and independent developer focused on agent systems, full-stack product engineering, and reliable AI workflows.
 
-## About
+My current direction is to build a concrete specialization around **agent observability, agent evaluation, and agent security governance**. The near-term plan is to study and contribute to the Langfuse ecosystem, then build a companion project on top of Langfuse for replayable agent risk evaluation, evidence records, and policy decisions.
 
-- 在校生、独立开发者
-- 技术专长：后端开发、agent开发
-- 关注 Agent systems、knowledge systems、open-source building
-- 目前正在探索agent知识沉淀，agent runtime，agent评测
+## Current Focus
 
-## Tech I Use
+- Agent observability: traces, tool calls, handoff context, runtime metadata
+- Agent evaluation: replay inputs, evaluation plumbing, regression datasets
+- Security governance: prompt injection, tool misuse, data leakage, risk decisions
+- Full-stack implementation: product surfaces that make AI behavior inspectable and reviewable
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Current Stack</strong><br />
-      TypeScript<br />
-      React<br />
-      Next.js<br />
-      Python<br />
-      FastAPI<br />
-      PostgreSQL<br />
-      SQLAlchemy<br />
-      Tailwind CSS<br />
-      Docker<br />
-      Playwright / Vitest / pytest
-    </td>
-    <td valign="top" width="50%">
-      <strong>Currently Exploring</strong><br />
-      Agent workflows<br />
-      LangGraph<br />
-      RAG / knowledge systems<br />
-      grounded QA<br />
-      ingestion-review pipelines<br />
-      vault-first knowledge design
-    </td>
-  </tr>
-</table>
+## What I Am Building
 
-## Featured Project
+### Langfuse Agent Security Governance
 
-### [Inkvault](https://github.com/rrhww/inkdesk)
+An upcoming companion project built around Langfuse traces, datasets, scores, and replay inputs.
 
-A private, vault-first research memory system built around:
+The goal is not to replace Langfuse. The goal is to use Langfuse as the system of record, then add a focused governance layer for:
+
+- replayable agent task flows
+- prompt-injection and tool-misuse evaluation
+- structured risk evidence
+- allow / warn / fail policy decisions
+- demoable audit trails for agent behavior
+
+### Inkvault
+
+[Inkvault](https://github.com/rrhww/inkdesk) is a vault-first research memory system built around:
 
 ```text
 raw -> ingest -> wiki -> ask
 ```
 
-Inkvault focuses on a specific problem:
-how to combine AI-assisted knowledge ingestion with human-reviewed long-term memory, while keeping accepted knowledge recoverable from the vault itself.
+It explores how to combine AI-assisted knowledge ingestion with human-reviewed long-term memory, while keeping accepted knowledge recoverable from the vault itself.
 
-**What this project shows**
-- full-stack implementation with Next.js + FastAPI
-- workflow and data modeling for a knowledge system
-- engineering around reviewable AI proposals instead of silent generation
-- ongoing work on product boundaries, architecture, and documentation
+This project shows my work on:
 
-## Current Focus
+- full-stack implementation with Next.js and FastAPI
+- workflow and data modeling for knowledge systems
+- reviewable AI proposals instead of silent generation
+- product boundaries, architecture, and documentation
 
-- building agent-oriented knowledge workflows
-- designing grounded, reviewable AI systems
-- improving full-stack product engineering
-- learning in public through project iteration and documentation
+## Tech I Use
 
-## Building in Public
+**Current stack**
 
-Here I mainly share:
-- README and architecture iteration
-- roadmap and implementation progress
-- learning notes around Agent systems
-- open-source practice through real project work
+- TypeScript, React, Next.js
+- Python, FastAPI
+- PostgreSQL, SQLAlchemy
+- Tailwind CSS
+- Docker
+- Playwright, Vitest, pytest
+
+**Currently exploring**
+
+- Langfuse internals and contribution workflow
+- Agent runtime telemetry
+- Trace replay and evaluation pipelines
+- RAG and grounded QA
+- Reviewable ingestion pipelines
+- Policy-driven agent safety workflows
+
+## Open Source Direction
+
+I am using open-source work as a way to make my engineering growth visible:
+
+- read production codebases deeply before proposing changes
+- contribute small, reviewable improvements with tests
+- write down architecture decisions and implementation notes
+- turn project work into reusable examples and demos
+
+The main thread for the next stage is:
+
+```text
+Langfuse ecosystem contributions
+  -> agent observability and evaluation gaps
+  -> companion security governance project
+  -> portfolio-ready engineering narrative
+```
 
 ## Contact
 
 - GitHub: [rrhww](https://github.com/rrhww)
-- Project: [Inkvault](https://github.com/rrhww/inkdesk)
-```
+- Project: [Inkvault / inkdesk](https://github.com/rrhww/inkdesk)
